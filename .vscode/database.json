@@ -1,0 +1,11 @@
+{
+	"extension.databases": [
+		{
+			"type": "mysql",
+			"name": "45.32.254.69 (mysql)",
+			"host": "45.32.254.69:3306",
+			"user": "root",
+			"password": "tjalswns14"
+		}
+	]
+}
